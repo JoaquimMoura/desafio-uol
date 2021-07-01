@@ -1,5 +1,3 @@
 # desafio-uol
 
-# Uol-service
-
 
